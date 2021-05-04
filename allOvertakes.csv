@@ -1628,7 +1628,7 @@ alonso,hamilton,3,2011,2012
 alonso,vettel,1,2011,2012
 alonso,sutil,1,2011,2012
 alonso,barrichello,1,2011,2012
-alonso,diresta,1,2011,2012
+alonso,di resta,1,2011,2012
 barrichello,kobayashi,2,2011,2012
 barrichello,rosberg,2,2011,2012
 barrichello,heidfeld,2,2011,2012
@@ -1654,7 +1654,7 @@ maldonado,perez,4,2011,2012
 maldonado,petrov,3,2011,2012
 maldonado,sutil,3,2011,2012
 maldonado,barrichello,6,2011,2012
-maldonado,diresta,1,2011,2012
+maldonado,di resta,1,2011,2012
 maldonado,glock,6,2011,2012
 maldonado,d'ambrosio,5,2011,2012
 maldonado,trulli,5,2011,2012
@@ -1672,7 +1672,7 @@ buemi,petrov,3,2011,2012
 buemi,hamilton,1,2011,2012
 buemi,sutil,3,2011,2012
 buemi,barrichello,4,2011,2012
-buemi,diresta,9,2011,2012
+buemi,di resta,9,2011,2012
 buemi,glock,6,2011,2012
 buemi,d'ambrosio,3,2011,2012
 buemi,trulli,4,2011,2012
@@ -1682,7 +1682,7 @@ buemi,liuzzi,2,2011,2012
 buemi,alguersuari,6,2011,2012
 buemi,senna,1,2011,2012
 buemi,ricciardo,1,2011,2012
-buemi,delarosa,1,2011,2012
+buemi,de la rosa,1,2011,2012
 alguersuari,kobayashi,3,2011,2012
 alguersuari,rosberg,3,2011,2012
 alguersuari,heidfeld,2,2011,2012
@@ -1692,7 +1692,7 @@ alguersuari,petrov,3,2011,2012
 alguersuari,webber,1,2011,2012
 alguersuari,sutil,3,2011,2012
 alguersuari,barrichello,4,2011,2012
-alguersuari,diresta,2,2011,2012
+alguersuari,di resta,2,2011,2012
 alguersuari,glock,3,2011,2012
 alguersuari,d'ambrosio,5,2011,2012
 alguersuari,trulli,6,2011,2012
@@ -1718,7 +1718,7 @@ webber,petrov,5,2011,2012
 webber,hamilton,4,2011,2012
 webber,sutil,5,2011,2012
 webber,barrichello,3,2011,2012
-webber,diresta,2,2011,2012
+webber,di resta,2,2011,2012
 webber,glock,1,2011,2012
 webber,d'ambrosio,1,2011,2012
 webber,trulli,2,2011,2012
@@ -1738,26 +1738,26 @@ vettel,webber,1,2011,2012
 vettel,hamilton,1,2011,2012
 vettel,sutil,2,2011,2012
 vettel,alonso,3,2011,2012
-diresta,kobayashi,3,2011,2012
-diresta,rosberg,2,2011,2012
-diresta,heidfeld,2,2011,2012
-diresta,perez,3,2011,2012
-diresta,petrov,3,2011,2012
-diresta,sutil,1,2011,2012
-diresta,barrichello,1,2011,2012
-diresta,glock,4,2011,2012
-diresta,d'ambrosio,5,2011,2012
-diresta,trulli,2,2011,2012
-diresta,maldonado,4,2011,2012
-diresta,kovalainen,9,2011,2012
-diresta,liuzzi,2,2011,2012
-diresta,karikeyan,2,2011,2012
-diresta,buemi,6,2011,2012
-diresta,alguersuari,6,2011,2012
-diresta,senna,1,2011,2012
-diresta,ricciardo,2,2011,2012
-diresta,delarosa,1,2011,2012
-diresta,chandhok,1,2011,2012
+di resta,kobayashi,3,2011,2012
+di resta,rosberg,2,2011,2012
+di resta,heidfeld,2,2011,2012
+di resta,perez,3,2011,2012
+di resta,petrov,3,2011,2012
+di resta,sutil,1,2011,2012
+di resta,barrichello,1,2011,2012
+di resta,glock,4,2011,2012
+di resta,d'ambrosio,5,2011,2012
+di resta,trulli,2,2011,2012
+di resta,maldonado,4,2011,2012
+di resta,kovalainen,9,2011,2012
+di resta,liuzzi,2,2011,2012
+di resta,karikeyan,2,2011,2012
+di resta,buemi,6,2011,2012
+di resta,alguersuari,6,2011,2012
+di resta,senna,1,2011,2012
+di resta,ricciardo,2,2011,2012
+di resta,de la rosa,1,2011,2012
+di resta,chandhok,1,2011,2012
 button,kobayashi,2,2011,2012
 button,rosberg,6,2011,2012
 button,massa,8,2011,2012
@@ -1770,7 +1770,7 @@ button,hamilton,4,2011,2012
 button,vettel,1,2011,2012
 button,sutil,5,2011,2012
 button,barrichello,2,2011,2012
-button,diresta,3,2011,2012
+button,di resta,3,2011,2012
 button,glock,1,2011,2012
 button,d'ambrosio,3,2011,2012
 button,trulli,3,2011,2012
@@ -1780,7 +1780,7 @@ button,karikeyan,2,2011,2012
 button,buemi,5,2011,2012
 button,alguersuari,1,2011,2012
 button,ricciardo,1,2011,2012
-button,delarosa,2,2011,2012
+button,de la rosa,2,2011,2012
 button,alonso,5,2011,2012
 massa,kobayashi,6,2011,2012
 massa,rosberg,10,2011,2012
@@ -1794,7 +1794,7 @@ massa,hamilton,3,2011,2012
 massa,vettel,1,2011,2012
 massa,sutil,2,2011,2012
 massa,barrichello,2,2011,2012
-massa,diresta,3,2011,2012
+massa,di resta,3,2011,2012
 massa,d'ambrosio,1,2011,2012
 massa,trulli,1,2011,2012
 massa,maldonado,7,2011,2012
@@ -1809,7 +1809,7 @@ trulli,kovalainen,1,2011,2012
 trulli,liuzzi,5,2011,2012
 trulli,senna,2,2011,2012
 trulli,ricciardo,2,2011,2012
-trulli,delarosa,1,2011,2012
+trulli,de la rosa,1,2011,2012
 kobayashi,rosberg,1,2011,2012
 kobayashi,massa,2,2011,2012
 kobayashi,heidfeld,1,2011,2012
@@ -1819,7 +1819,7 @@ kobayashi,petrov,3,2011,2012
 kobayashi,webber,3,2011,2012
 kobayashi,sutil,4,2011,2012
 kobayashi,barrichello,3,2011,2012
-kobayashi,diresta,5,2011,2012
+kobayashi,di resta,5,2011,2012
 kobayashi,glock,4,2011,2012
 kobayashi,d'ambrosio,3,2011,2012
 kobayashi,trulli,5,2011,2012
@@ -1838,7 +1838,7 @@ sutil,schumacher,2,2011,2012
 sutil,perez,5,2011,2012
 sutil,petrov,1,2011,2012
 sutil,barrichello,2,2011,2012
-sutil,diresta,2,2011,2012
+sutil,di resta,2,2011,2012
 sutil,glock,5,2011,2012
 sutil,d'ambrosio,4,2011,2012
 sutil,trulli,3,2011,2012
@@ -1861,7 +1861,7 @@ hamilton,webber,3,2011,2012
 hamilton,vettel,1,2011,2012
 hamilton,sutil,3,2011,2012
 hamilton,barrichello,2,2011,2012
-hamilton,diresta,3,2011,2012
+hamilton,di resta,3,2011,2012
 hamilton,trulli,1,2011,2012
 hamilton,maldonado,1,2011,2012
 hamilton,kovalainen,1,2011,2012
@@ -1874,7 +1874,7 @@ heidfeld,petrov,4,2011,2012
 heidfeld,hamilton,1,2011,2012
 heidfeld,sutil,2,2011,2012
 heidfeld,barrichello,2,2011,2012
-heidfeld,diresta,1,2011,2012
+heidfeld,di resta,1,2011,2012
 heidfeld,glock,2,2011,2012
 heidfeld,d'ambrosio,1,2011,2012
 heidfeld,trulli,3,2011,2012
@@ -1892,7 +1892,7 @@ perez,petrov,5,2011,2012
 perez,webber,1,2011,2012
 perez,sutil,1,2011,2012
 perez,barrichello,4,2011,2012
-perez,diresta,4,2011,2012
+perez,di resta,4,2011,2012
 perez,glock,4,2011,2012
 perez,d'ambrosio,6,2011,2012
 perez,trulli,5,2011,2012
@@ -1912,7 +1912,7 @@ rosberg,perez,1,2011,2012
 rosberg,petrov,4,2011,2012
 rosberg,sutil,2,2011,2012
 rosberg,barrichello,4,2011,2012
-rosberg,diresta,3,2011,2012
+rosberg,di resta,3,2011,2012
 rosberg,d'ambrosio,3,2011,2012
 rosberg,trulli,2,2011,2012
 rosberg,maldonado,2,2011,2012
@@ -1931,7 +1931,7 @@ schumacher,webber,1,2011,2012
 schumacher,hamilton,2,2011,2012
 schumacher,sutil,2,2011,2012
 schumacher,barrichello,1,2011,2012
-schumacher,diresta,5,2011,2012
+schumacher,di resta,5,2011,2012
 schumacher,d'ambrosio,4,2011,2012
 schumacher,trulli,6,2011,2012
 schumacher,maldonado,4,2011,2012
@@ -1948,7 +1948,7 @@ petrov,button,1,2011,2012
 petrov,perez,4,2011,2012
 petrov,sutil,2,2011,2012
 petrov,barrichello,2,2011,2012
-petrov,diresta,5,2011,2012
+petrov,di resta,5,2011,2012
 petrov,d'ambrosio,2,2011,2012
 petrov,trulli,2,2011,2012
 petrov,maldonado,1,2011,2012
@@ -1974,10 +1974,10 @@ liuzzi,perez,1,2011,2012
 liuzzi,glock,1,2011,2012
 liuzzi,d'ambrosio,2,2011,2012
 liuzzi,karikeyan,4,2011,2012
-delarosa,glock,1,2011,2012
-delarosa,d'ambrosio,1,2011,2012
-delarosa,trulli,1,2011,2012
-delarosa,buemi,1,2011,2012
+de la rosa,glock,1,2011,2012
+de la rosa,d'ambrosio,1,2011,2012
+de la rosa,trulli,1,2011,2012
+de la rosa,buemi,1,2011,2012
 karikeyan,glock,1,2011,2012
 karikeyan,d'ambrosio,1,2011,2012
 karikeyan,liuzzi,1,2011,2012
